@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="density">Density : </string>
+    <string name="orientation">Orientation : </string>
+    <string name="height">Height : </string>
+    <string name="width">Width : </string>
+    <string name="language">Language : </string>
+    <string name="mcc">Country(MCC) : </string>
+    <string name="mnc">Company(MNC) : </string>
+</resources>
