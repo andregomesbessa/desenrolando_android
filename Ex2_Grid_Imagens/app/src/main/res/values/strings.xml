@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ex2_Grid_Imagens</string>
+    <string-array name="lista_nomes_personagens">
+        <item>Homer</item>
+        <item>Bart</item>
+        <item>Lisa</item>
+        <item>Maggie</item>
+        <item>Itchy</item>
+        <item>Ned Flanders</item>
+        <item>Ralph</item>
+        <item>Burns</item>
+        <item>Smithers</item>
+        <item>Apu</item>
+        <item>Comic Book Guy</item>
+    </string-array>
+</resources>
